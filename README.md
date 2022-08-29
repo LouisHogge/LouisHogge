@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me : is there a messaging service on github ?
+- 📫 How to reach me : xXdarkloulouXx#7637 on Discord
 
 <!---
 xXdarkloulouXx/xXdarkloulouXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
