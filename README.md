@@ -1,6 +1,6 @@
 👋 Hi, I’m @LouisHogge
 
-I am currently doing a Master Of Science (MSc) in Computer Science and Engineering with a focus on management as well as a Master in Business Engineering with a focus on Digital Business both in the framework of the double degree "Digital Business" program at ULiège.
+I am currently doing a Master Of Science (MSc) in Computer Science and Engineering with a focus on Management as well as a Master in Business Engineering both in the framework of the double degree "Digital Business" program at ULiège.
 
 📫 How to reach me : louishogge on Discord
 
