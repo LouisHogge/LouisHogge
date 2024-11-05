@@ -1,6 +1,6 @@
 👋 Hi, I’m @LouisHogge
 
-I am currently doing a Master of Science (MSc) in Computer Science and Engineering with a focus on Management as well as a Master in Business Engineering with a focus on Financial Engineering both in the framework of the double degree "Digital Business" program at the University of Liège.
+I am currently pursuing a Master of Science (MSc) in Computer Science and Engineering with a specialization in Management, alongside a Master in Business Engineering focused on Financial Engineering. Both degrees are part of the double degree "Digital Business" program between the University of Liège and HEC Liège.
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisHogge&theme=dracula)](https://github.com/LouisHogge/github-readme-stats)
